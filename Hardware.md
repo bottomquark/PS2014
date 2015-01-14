@@ -4,6 +4,7 @@ Here are just some thoughts about driving the LEDs
 ## Powering
 [Constant current source](http://www.mikrocontroller.net/articles/Konstantstromquelle_fuer_Power_LED), one per channel.
 Alternatives: [Power regulators](http://www.mikrocontroller.net/articles/Konstantstromquelle#.23Konstantstromquelle_mit_Schaltregler)
+
 [parts for 5 RGB LEDs](https://secure.reichelt.de/index.html?&ACTION=20&AWKID=1009635&PROVID=2084)
 
 ## Controlling
